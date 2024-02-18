@@ -9,7 +9,7 @@ Para executar este projeto, você precisará ter Python e Tkinter instalados em 
 1. Clone o repositório para sua máquina local:
 ```bash
 
-    git clone https://github.com/seuUsuario/nomeDoRepositorio.git
+    git clone https://github.com/LuhanThomaz/Calculadora.git
 
 ```
 
